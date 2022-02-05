@@ -1,5 +1,38 @@
+header {
+  text-align: center;
+}
+
+
+
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+
+h1 {
+color:red;
+}
+
+img {
+  align-items: center;
+}
+
+a {
+  padding: 0 10px;
+  background-color: grey;
+  align-items: center;
+}
+
+figcaption{
+  font-size: 10px;
+  text-align: center;
+}
+
+#featured-property > p{
+  width: 800px;
+  text-align: center
+  padding: 10px 0;
+
 }
